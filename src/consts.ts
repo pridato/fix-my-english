@@ -1,0 +1,1 @@
+export const cohereToken:string = 'kZNf6J3CVZ06w8UO6PZnCFXzpVHmhZgj5wFWemnK'
